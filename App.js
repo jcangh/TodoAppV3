@@ -5,7 +5,7 @@ class App extends React.Component{
 
   
   state = {
-    text: "",
+    text: "defecto",
     todo: []
   }
 

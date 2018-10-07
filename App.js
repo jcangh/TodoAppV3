@@ -47,7 +47,7 @@ class App extends React.Component{
             value={this.state.text}
           />
           <Button 
-            title="Add Todo"
+            title="Add Todo."
             color="#0288D1"
             onPress={this.addTodo}
           />

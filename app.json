@@ -4,9 +4,9 @@
     "description": "This project is really great.",
     "slug": "todoAppV3",
     "privacy": "public",
-    "sdkVersion": "23.0.0",
+    "sdkVersion": "26.0.0",
     "platforms": ["ios", "android"],
-    "version": "1.0.0",
+    "version": "1.1.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -22,6 +22,9 @@
     ],
     "ios": {
       "supportsTablet": true
+    },
+    "android":{
+      "package" : "com.jcah.todo"
     }
   }
 }
